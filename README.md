@@ -4,7 +4,7 @@
 
 Hello! I'm **Hamza Khalid**, a dynamic Full Stack Engineer from Lahore, Pakistan. 🚀
 
-With a keen eye for both backend and frontend development, I thrive on building robust, scalable web applications. My passion for technology drives me to constantly learn and innovate, ensuring that I deliver cutting-edge solutions to complex problems.
+With a keen eye for both backend and frontend development, Technical expertise in cutting edge front-end and back-end technologies like Java Spring, Spring boot, REST API’s, SOAP Web Services, React, Micro services architecture.
 
 ### 🎉 Fun Fact
 When I'm not coding, you might find me exploring the latest tech gadgets or enjoying a good hike. 🌲🏞️🔧
