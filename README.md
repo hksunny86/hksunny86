@@ -17,7 +17,7 @@ When I'm not coding, you might find me exploring the latest tech gadgets or enjo
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,npm,yarn,javascript,typescript,jquery,react,redux,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sequelize,firebase,aws,figma,git,gitlab,github,postman,vscode&perline=10)
+![My Skills](https://skillicons.dev/icons?i=java,spring,spring-boot,jpa,hibernate,oracle,soapui,npm,yarn,javascript,typescript,jquery,react,redux,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sequelize,firebase,aws,figma,git,gitlab,github,postman,vscode&perline=10)
 
 
 ## Education
