@@ -27,7 +27,7 @@ When I'm not coding, you might find me exploring the latest tech gadgets or enjo
 ## Certifications
 
 - **Microsoft Office Specialist** - Microsoft
-- **Java Basics** - Oracle Academy
+- **Java** - Oracle Academy
 - **Various Online Courses** - Udemy (HTML, CSS, Bootstrap, SQL Database, Java, Springboot, React, Redux)
 
 ---
